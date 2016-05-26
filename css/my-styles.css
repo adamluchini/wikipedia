@@ -1,0 +1,10 @@
+.center {
+  text-align: center;
+}
+
+.topbox {
+  padding: 2px;
+  background: lightgrey;
+  border: 1px solid grey;
+  margin: 2px;
+}
