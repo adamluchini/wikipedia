@@ -8,3 +8,42 @@
   border: 1px solid grey;
   margin: 2px;
 }
+
+.sidebar {
+  float: left;
+  width: 240px;
+}
+
+.float-left {
+  float: left;
+}
+
+.vertcenter {
+  vertical-align:bottom;
+}
+
+.greenbox {
+  border: 1px solid black;
+  margin-right: 1px;
+  margin-bottom: 1px;
+  margin-top: 1px;
+  margin-left: 3px;
+  background-color: lightgreen;
+}
+
+.purplebox {
+border: 1px solid black;
+margin: 1px 3px 1px 0px;
+background-color: lightblue;
+}
+
+.bluebox {
+  border: 1px solid black;
+  margin-bottom: 1px;
+  background-color: lavender;
+  display: inline-block;
+}
+
+.logbox {
+  margin-right: 20px;
+}
